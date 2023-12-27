@@ -1,0 +1,31 @@
+/Users/dikabosnjak/Desktop/employee management system/bin/Debug/net7.0/appsettings.Development.json
+/Users/dikabosnjak/Desktop/employee management system/bin/Debug/net7.0/appsettings.json
+/Users/dikabosnjak/Desktop/employee management system/bin/Debug/net7.0/employee management system.staticwebassets.runtime.json
+/Users/dikabosnjak/Desktop/employee management system/bin/Debug/net7.0/employee management system
+/Users/dikabosnjak/Desktop/employee management system/bin/Debug/net7.0/employee management system.deps.json
+/Users/dikabosnjak/Desktop/employee management system/bin/Debug/net7.0/employee management system.runtimeconfig.json
+/Users/dikabosnjak/Desktop/employee management system/bin/Debug/net7.0/employee management system.dll
+/Users/dikabosnjak/Desktop/employee management system/bin/Debug/net7.0/employee management system.pdb
+/Users/dikabosnjak/Desktop/employee management system/obj/Debug/net7.0/employee management system.csproj.AssemblyReference.cache
+/Users/dikabosnjak/Desktop/employee management system/obj/Debug/net7.0/employee management system.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dikabosnjak/Desktop/employee management system/obj/Debug/net7.0/employee management system.AssemblyInfoInputs.cache
+/Users/dikabosnjak/Desktop/employee management system/obj/Debug/net7.0/employee management system.AssemblyInfo.cs
+/Users/dikabosnjak/Desktop/employee management system/obj/Debug/net7.0/employee management system.csproj.CoreCompileInputs.cache
+/Users/dikabosnjak/Desktop/employee management system/obj/Debug/net7.0/employee management system.MvcApplicationPartsAssemblyInfo.cache
+/Users/dikabosnjak/Desktop/employee management system/obj/Debug/net7.0/employee management system.RazorAssemblyInfo.cache
+/Users/dikabosnjak/Desktop/employee management system/obj/Debug/net7.0/employee management system.RazorAssemblyInfo.cs
+/Users/dikabosnjak/Desktop/employee management system/obj/Debug/net7.0/staticwebassets/msbuild.employee management system.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/dikabosnjak/Desktop/employee management system/obj/Debug/net7.0/staticwebassets/msbuild.build.employee management system.props
+/Users/dikabosnjak/Desktop/employee management system/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.employee management system.props
+/Users/dikabosnjak/Desktop/employee management system/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.employee management system.props
+/Users/dikabosnjak/Desktop/employee management system/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/dikabosnjak/Desktop/employee management system/obj/Debug/net7.0/staticwebassets.build.json
+/Users/dikabosnjak/Desktop/employee management system/obj/Debug/net7.0/staticwebassets.development.json
+/Users/dikabosnjak/Desktop/employee management system/obj/Debug/net7.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/dikabosnjak/Desktop/employee management system/obj/Debug/net7.0/scopedcss/bundle/employee management system.styles.css
+/Users/dikabosnjak/Desktop/employee management system/obj/Debug/net7.0/scopedcss/projectbundle/employee management system.bundle.scp.css
+/Users/dikabosnjak/Desktop/employee management system/obj/Debug/net7.0/employee management system.dll
+/Users/dikabosnjak/Desktop/employee management system/obj/Debug/net7.0/refint/employee management system.dll
+/Users/dikabosnjak/Desktop/employee management system/obj/Debug/net7.0/employee management system.pdb
+/Users/dikabosnjak/Desktop/employee management system/obj/Debug/net7.0/employee management system.genruntimeconfig.cache
+/Users/dikabosnjak/Desktop/employee management system/obj/Debug/net7.0/ref/employee management system.dll
